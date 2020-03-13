@@ -14,7 +14,7 @@ In this project I implement a serverless, microservice-driven web application. S
 * Build the API for the application
   * Use API Gateway to setup API
     * use the following API/Swagger specification for my API
-      * https://github.com/001000001/aics-columbia-s2018/blob/mas ter/aics-swagger.yaml
+      * https://github.com/001000001/aics-columbia-s2018/blob/master/aics-swagger.yaml
       * Use ​http://editor.swagger.io/​ to visualize this file
       * import the Swagger file into API Gateway
         * https://docs.aws.amazon.com/apigateway/latest/developerguide/api-gateway-import-api.html
